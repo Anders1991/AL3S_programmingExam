@@ -1,0 +1,40 @@
+#createStudentName {
+    display: block;
+}
+
+#createStudentEmail {
+    display: block;
+}
+
+#createStudentSupervisor {
+    display: block;
+}
+
+#createBtn {
+    display: block;
+}
+
+#name {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#email {
+    display: inline-block;
+}
+
+#supervisor {
+    display: inline-block;
+}
+
+#studentId {
+    display: inline-block;
+}
+
+.studentCard {
+    margin-bottom: 20px;
+}
+
+.legend {
+    margin-right: 137px;
+}
